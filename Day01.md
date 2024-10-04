@@ -104,35 +104,31 @@ This command displays a list of all commits in the current branch, showing commi
 ## Practical Exercises
 
 1. **Create a New Directory and Initialize a Git Repository:**
-
-
-    mkdir my-git-repo
-    cd my-git-repo
-    git init
+      
+        mkdir my-git-repo
+        cd my-git-repo
+        git init
 
 
 2. **Create a Simple Text File and Make Your First Commit:**
 
-
-    echo "Hello, Git!" > hello.txt
-    git status
-    git add hello.txt
-    git commit -m "Add hello.txt file"
+        echo "Hello, Git!" > hello.txt
+        git status
+        git add hello.txt
+        git commit -m "Add hello.txt file"
 
 
 3. **Make Changes to the File and Create Additional Commits:**
 
-
-    echo "This is my first Git repository." >> hello.txt
-    git status
-    git add hello.txt
-    git commit -m "Update hello.txt with additional text"
+        echo "This is my first Git repository." >> hello.txt
+        git status
+        git add hello.txt
+        git commit -m "Update hello.txt with additional text"
 
 
 4. **View Your Commit History:**
 
-
-    git log
+        git log
 
 
 By the end of Day 1, you will have gained a fundamental grasp of version control concepts, recognized the significance of Git in modern software development, and acquired the skills to execute essential Git commands for effective code management. This foundational knowledge will serve as a springboard for more advanced Git techniques and collaborative workflows in the days to come.
