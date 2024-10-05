@@ -15,6 +15,10 @@ Welcome to the 5-Day Intensive Git Learning Plan! This plan is designed to help 
     - Objectives: Understand Git basics, install and configure Git, and learn basic commands.
     - [Go to Day 1](./Day01.md)
 
+
+- **Day 2: Working with Repositories**
+  - Objectives: Clone repositories, understand branching and merging, and learn about Gitignore.
+  - [Go to Day 2](./Day02.md)
 ## Getting Started
 
 Make sure you have Git installed on your machine. If not, follow the installation steps outlined in Day 1.

@@ -131,4 +131,3 @@ This command displays a list of all commits in the current branch, showing commi
         git log
 
 
-By the end of Day 1, you will have gained a fundamental grasp of version control concepts, recognized the significance of Git in modern software development, and acquired the skills to execute essential Git commands for effective code management. This foundational knowledge will serve as a springboard for more advanced Git techniques and collaborative workflows in the days to come.
