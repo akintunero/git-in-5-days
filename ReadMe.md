@@ -19,6 +19,13 @@ Welcome to the 5-Day Intensive Git Learning Plan! This plan is designed to help 
 - **Day 2: Working with Repositories**
   - Objectives: Clone repositories, understand branching and merging, and learn about Gitignore.
   - [Go to Day 2](./Day02.md)
+
+
+- **Day 3: Collaboration with Git**
+  - Objectives: Learn about remote repositories, pushing and pulling changes, forking, and pull requests.
+  - [Go to Day 3](./Day03.md)
+  - 
+
 ## Getting Started
 
 Make sure you have Git installed on your machine. If not, follow the installation steps outlined in Day 1.
