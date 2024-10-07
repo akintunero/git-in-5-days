@@ -24,7 +24,17 @@ Welcome to the 5-Day Intensive Git Learning Plan! This plan is designed to help 
 - **Day 3: Collaboration with Git**
   - Objectives: Learn about remote repositories, pushing and pulling changes, forking, and pull requests.
   - [Go to Day 3](./Day03.md)
-  - 
+
+
+- **Day 4: Advanced Git Concepts**
+  - Objectives: Learn about rebasing, cherry-picking, stashing, tags, releases, and Git logs/history.
+  - [Go to Day 4](./Day04.md)
+
+
+- **Day 5: Putting It All Together**
+  - Objectives: Apply Git knowledge to sample projects and real-world scenarios.
+  - [Go to Day 5](./Day05.md)
+
 
 ## Getting Started
 
